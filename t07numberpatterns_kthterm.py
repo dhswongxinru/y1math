@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 # What is the kth term? How do you check it?
 
 k = 10
